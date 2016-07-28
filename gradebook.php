@@ -88,6 +88,30 @@ li a:hover:not(.active) {
   padding: 100px;
   box-sizing: border-box;
 }
+  .semester4 {
+  display: inline-block;
+  width: 33%;
+  background: #f39893;
+  color: white;
+  padding: 100px;
+  box-sizing: border-box;
+}
+  .semester5 {
+  display: inline-block;
+  width: 33%;
+  background: #239829;
+  color: white;
+  padding: 100px;
+  box-sizing: border-box;
+}
+  .semester6 {
+  display: inline-block;
+  width: 33%;
+  background: #129857;
+  color: white;
+  padding: 100px;
+  box-sizing: border-box;
+}
 </style>
 
 <html lang="en">
@@ -119,17 +143,17 @@ li a:hover:not(.active) {
     </ul>
 
 
-
   <div class="container">
     <div class="semester1">Summer 2016</div>
     <div class="semester2">Spring 2016</div>
     <div class="semester3">Fall 2015</div>
   </div>
   <div class="container">
-    <div class="semester1">Summer 2015</div>
-    <div class="semester2">Spring 2015</div>
-    <div class="semester3">Fall 2014</div>
-  </div>
+    <div class="semester4">Summer 2015</div>
+    <div class="semester5">Spring 2015</div>
+    <div class="semester6">Fall 2014</div>
+</div>
+
 
 </body>
 
