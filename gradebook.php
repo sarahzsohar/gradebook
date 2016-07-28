@@ -121,11 +121,15 @@ li a:hover:not(.active) {
 
 
   <div class="container">
-    <div class="semester1">Column center</div>
-    <div class="semester2">Column left</div>
-    <div class="semester3">Column right</div>
+    <div class="semester1">Summer 2016</div>
+    <div class="semester2">Spring 2016</div>
+    <div class="semester3">Fall 2015</div>
   </div>
-
+  <div class="container">
+    <div class="semester1">Summer 2015</div>
+    <div class="semester2">Spring 2015</div>
+    <div class="semester3">Fall 2014</div>
+  </div>
 
 </body>
 
